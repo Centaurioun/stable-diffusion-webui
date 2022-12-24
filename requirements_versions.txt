@@ -27,3 +27,4 @@ inflection==0.5.1
 GitPython==3.1.27
 torchsde==0.2.5
 safetensors==0.2.5
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
